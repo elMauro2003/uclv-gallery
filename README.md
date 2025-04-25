@@ -1,4 +1,4 @@
-# Clinic project
+# UCLV Gallery project
 
 ## Previous knowledge
 <!-- UL -->
