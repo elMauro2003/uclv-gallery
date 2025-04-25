@@ -21,7 +21,7 @@ def login_view(request):
             return redirect('index')
         else:
             context = {
-                "error":"Incorrect credentials",
+                "error":"Credenciales incorrectas!",
             }
             return render(request, 'pages/accounts/login.html',context)
     context = {
